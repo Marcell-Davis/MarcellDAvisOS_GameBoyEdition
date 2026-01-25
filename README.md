@@ -1,2 +1,2 @@
-# MarcellDAvisOS GameBoyEdition
+# MarcellD'AvisOS GameBoyEdition
 Marcell D'Avis OS, bald für den GameBoy!
